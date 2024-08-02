@@ -12,13 +12,12 @@ Table of Contents:
 -Skills and Qualifications
 -Technical Skills
 -Work Experience
--Languages and Interests
 -Social Links
 -Downloading the CV
 
 Accessing the Virtual CV:
 A web browser can be used to access the virtual CV. For optimal results, make sure you have a current browser and a reliable internet connection.
-URL:
+URL: https://tebogoseton.github.io/TebogoSetonaCV.github.io/
 
 Navigating the Sections:
 
@@ -52,5 +51,36 @@ Excel VBA
 Data Analytics
 Communication
 Teamwork and Adaptability
+
+Technical Skills:
+
+The databases, frameworks, web technologies, and programming languages that Tebogo is skilled in are included in this section.
+
+Important Technologies:
+Programming Languages: C++, Java, and C#
+Databases: SQL 
+Tools and Frameworks: ASP.NET,.NET, Excel QM
+Web technologies: CSS and HTML
+
+Work Experience:
+Here are specifics on Tebogo's employment history, such as job titles, employers, length of employment, and duties. For validation, a reference from a former coworker is also provided.
+
+Primary Experience:
+Salesperson/Service Station Attendant
+Total Energies Madiba Motors
+02/2022–03/2022
+Reference:
+Tshepo Jeremiah Ntsiepe 
+063 815 2423
+
+Social Links:
+For additional details and work samples, links to Tebogo's professional social media profiles and repositories are supplied.
+
+Social Media Links:
+LinkedIn
+GitHub
+
+Downloading the CV:
+Tebogo's cv can be accessed and shared offline using a downloadable PDF version.
 
 
